@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This setup involves configuring roles, departments, and teams to establish a structured workflow, assigning agents and users to manage support requests, setting up Service Level Agreements (SLAs) to define response times, and creating help topics to categorize and streamline ticket management within the osTicket system. Please watch video demonstration below for more insight. <br />
 
 
 <h2>Video Demonstration</h2>
@@ -22,19 +22,19 @@ https://youtu.be/lqdY84HOQ0M
 
 <h2>Post-Install Configuration Objectives</h2>
 
-Configure Roles
+1. Configure Roles
 
-Configure Departments
+2. Configure Departments
 
-Configure Teams
+3. Configure Teams
 
-Configure Agents
+4. Configure Agents
 
-Configure Users
+5. Configure Users
 
-Configure SLA
+6. Configure SLA
 
-Configure Help Topics
+7. Configure Help Topics
 
 <h2>Configuration Steps</h2>
 
