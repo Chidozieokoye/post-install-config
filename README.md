@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This setup involves configuring roles, departments, and teams to establish a structured workflow, assigning agents and users to manage support requests, setting up Service Level Agreements (SLAs) to define response times, and creating help topics to categorize and streamline ticket management within the osTicket system. Please watch video demonstration below for more insight. <br />
+In this lab, I began by configuring roles, departments, and teams to create a structured workflow within the osTicket system. I then assigned agents and users to manage support requests effectively. To ensure timely responses, I set up Service Level Agreements (SLAs) to define the expected response times. Additionally, I created help topics to categorize and streamline ticket management. For a clearer understanding of the process, please watch the video demonstration below. <br />
 
 
 <h2>Video Demonstration</h2>
